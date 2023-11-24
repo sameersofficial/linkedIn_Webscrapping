@@ -1,0 +1,309 @@
+﻿Job_ID,Job_Title,Location,Company_ID,Company_Name,Industry,Employee_Count,LinkedIn_Followers,Class,Detail_ID,Emp_level,Total_Applicants
+J1,Alyst/Sr. Alyst-Digital Product Alytics (SQL/Navisualization Tools),"Gurgaon, Harya,India",C1,American Express  ,Fincial Services ,10001,1701642,Class-1,1,Mid-Senior level,54
+J10,Associate Data Alyst,"Hyderabad, Telangana,India",C7,"Neustar, Inc. ",Information Technology & Services,10001,67636,Class-1,10,Associate,200
+J100,"Alyst, Master Data","Bengaluru, Kartaka,India",C85,Molex,Electrical & Electronic Manufacturing,10,151954,Class-1,71,Entry level,137
+J101,Application Architect: AWS Cloud,"Pune, Maharashtra,India",C86,IBM ,Information Technology & Services,2467,14405435,Class-2,72,NULL,8
+J102,Software Quality Senior Engineer,"Bengaluru, Kartaka,India",C87,Dell Technologies,Information Technology & Services,2,4170257,Class-3,73,NULL,25
+J103,Data Alyst,"Mumbai, Maharashtra,India",C28,Hotstar,Computer Software ,32,719232,Class-1,13,Entry level,200
+J104,Solutions Architect,"Noida, Uttar Pradesh,India",C88,IDEMIA ,Information Technology & Services,14,480426,Class-1,44,Mid-Senior level,70
+J105,Alyst - Core Alytics - Power BI,"Thane, Maharashtra,India",C89,Randstad India,Human Resources,110,382650,Class-1,43,Full-time,200
+J106,Google Alytics,"Bengaluru, Kartaka,India",C90,Quess IT Staffing ,Staffing & Recruiting,19,242803,Class-1,74,Mid-Senior level,55
+J107,Data Alyst,"Ahmedabad, Gujarat,India",C91,Merito.in,Staffing & Recruiting,239,7486,Class-1,75,Executive,15
+J108,Data Alyst,"Bengaluru, Kartaka,India",C92,Bayer ,Chemicals  ,29,4509594,Class-3,51,Entry level,197
+J11,Business Alyst,"Hyderabad, Telangana,India",C8,Microsoft,Computer Software,13,17774440,Class-2,10,Associate,200
+J110,Associate Data Alyst,"Bengaluru, Kartaka,India",C22,Novo Nordisk,Pharmaceuticals  ,10001,1302821,Class-1,40,NULL,200
+J112,Data Alyst,"Mumbai, Maharashtra,India",C95,Media.net ,Internet  ,84,227081,Class-1,13,Entry level,200
+J114,Content Intern,"Gurugram, Harya,India",C97,ARM Worldwide,Advertising Services,5,13671,Class-1,79,Entry-Level,5
+J115,Content Writer Intern,"Delhi,India",C98,Kraft-Obench - WFH Pods | Home Offices | Sound Insulated Work Pods,Furniture and Home Furnishings Manufacturing,1,2110,Class-1,80,Entry-Level,10
+J116,Content Writer,"Gurgaon, Harya,India",C99,T and T Realty Services Private Limited,Real Estate,50,3648,Class-1,81,Entry-Level,15
+J117,SEO Content Writer Intern,"New Delhi, Delhi,India",C100,SkyTrust IT Solutions,Advertising Services,5,946,Class-1,82,Entry-Level,2
+J118,Digital marketing,"Delhi,India",C101,Bizgurukul,Advertising Services,15,39172,Class-1,83,Entry-Level,20
+J119,Digital Marketing Intern,"Navi Mumbai, Maharashtra,India",C102,Valves Only,Industrial Machinery Manufacturing,2,2668,Class-1,84,Entry-Level,23
+J12,Growth Alyst,"Pune, Maharashtra,India",C9,Turing.com,Information Technology & Services,50,127941,Class-1,11,NULL,70
+J120,Student,"New Delhi, Delhi,India",C103,The Golden Rise,Wellness and Fitness Services,22,11317,Class-1,85,NULL,0
+J121,Content Writer,"Gurugram, Harya,India",C104,Supergrad,"echnology, Information and Internet",50,1146,Class-1,58,NULL,5
+J122,Recruitment fresher,"Maharashtra,India",C105,Student Inc.,Education Administration Programs,10001,13694,Class-1,72,NULL,8
+J123,Junior Marketing Mager,"Delhi,India",C106,Crepdog Crew,Retail Apparel and Fashion,50,2469,Class-1,86,Mid-Level,33
+J124,Social Media Marketing Intern,"Gurugram, Harya,India",C107,RecruitNXT,IT Services and IT Consulting,200,26396,Class-1,87,Entry-Level,9
+J125,Content Writer,"New Delhi, Delhi,India",C108,Phixman,"Technology, Information and Internet",200,2812,Class-1,88,Entry-Level,8
+J126,Content Writer Intern,India,C109,Instamedz,Wellness and Fitness Services,50,3461,Class-1,89,Entry-Level,43
+J127,Paid Training + Free Project & Internship,India,C110,Coincent.ai,E-Learning Providers,200,10426,Class-1,90,Entry-Level,2
+J128,Content Writer,"Delhi,India",C111,Vivaci Luxury Pvt. Ltd.,Advertising Services,50,2055,Class-1,91,Entry-Level,10
+J129,Human Resources Intern,"Delhi,India",C107,RecruitNXT,IT Services and IT Consulting,5,26396,Class-1,92,Entry-Level,4
+J13,"Alyst, Inventory Optimization","Gurgaon, Harya,India",C10,Stryker,Medical Device,10,981227,Class-1,12,Associate,7
+J130,Communications Assistant,"South Delhi, Delhi,India",C112,VRAKSH,Events Services,0,1171,Class-1,93,Mid-Level,4
+J131,Student,"Gurugram, Harya,India",C113,EntreLeadership,Business Consulting and Services,5000,34034,Class-1,94,Entry-Level,12
+J132,Social Media Magement Intern,"Mumbai, Maharashtra,India",C114,4WD Gaming,Public Relations and Marketing Agency,10001,13,Class-1,95,Associate,15
+J133,Operations Internship in Gurgaon at Vplak,"Gurgaon, Harya,India",C115,VPLAK,Computers and Electronics Manufacturing,200,1172,Class-1,96,Entry-Level,10
+J134,Digital marketing,"Preet Navihar, Delhi,India",C116,Achievers Club (Digital network Marketing),Advertising Services,10,745,Class-1,97,Entry-Level,18
+J135,Paid Certificate & Guarantee Internship,India,C110,Coincent.ai,E-Learning Providers,200,10426,Class-1,98,Entry-Level,12
+J136,IT Business Development Executive (Intern/Fresher) - 3 Openings Ahmedabad,Greater Ahmedabad Area,C117,Codage Habitation,Information Services ,1000,17,Class-1,99,Mid-Level,10
+J137,Content Writer,"Noida, Uttar Pradesh,India",C118,Spell Web InfoTech,IT Services and IT Consulting,500,615,Class-1,90,Entry-Level,2
+J138,Intern,"Delhi,India",C119,Aarka Sports Magement Pvt. Ltd.,Sports,1038,132,Class-1,100,entry-Level,12
+J139,Human Resources Intern,"Delhi,India",C120,MARS Exploration Pvt Ltd,Aviation & Aerospace,200,529,Class-1,101,Mid-Level,25
+J14,Alyst-Data Science,"Gurgaon, Harya,India",C1,American Express  ,Fincial Services ,200,1701642,Class-1,13,Entry level,200
+J140,Business Development,"Delhi,India",C121,Teamwork Communications Group,Public Relations & Communications,120,56,Class-1,102,Entry-Level,11
+J141,Navirtual Assistant,"Delhi,India",C122,Growup Outsourcing,Outsourcing/Offshoring,5,6,Class-1,100,entry-Level,12
+J142,Digital Marketing Intern,"Noida, Uttar Pradesh,India",C123,7 STAR MEDTECH PVT. LTD.,Marketing & Advertising,10001,9,Class-1,103,Mid-Level,50
+J143,Digital Marketing Internship,"Uppal, Telangana,India",C124,KBK Business Solutions,Information Technology & Services,1274,25,Class-1,104,Entry-Level,0
+J144,Social Media Expert,"Noida, Uttar Pradesh,India",C125,StartupFlux,Information Technology & Services ,500,23,Class-1,84,Entry-Level,23
+J145,Fresher,Greater Delhi Area,C126,"""Work From Home""",Human Resources Services,200,2073841,Class-1,104,Entry-Level,0
+J146,Internet Content Mager,India,C127,Tax Advisory,Legal Services ,1274,3,Class-1,105,Entry-Level,28
+J147,Content Writer,"Delhi,India",C128,Digiwebcore,Information Technology & Services,239,1339,Class-1,106,Entry-Level,5
+J148,Digital marketing intern,India,C129,ILP Overseas | Intertiol Learning Planners,Education Magement,200,708,Class-1,107,Mid-Level,25
+J149,Recruitment,"Agra, Uttar Pradesh,India",C130,Work From Home Opportunity,E-learning,5000,3018,Class-1,108,Mid-Level,48
+J150,Content Writer,"New Delhi, Delhi,India",C131,Flash Me Right,Information Technology & Services,500,7,Class-1,109,Entry-Level,25
+J151,Content Writer,"Gurugram, Harya,India",C132,PR Professiols,Public Relations & Communications ,500,56,Class-1,110,Entry-Level,98
+J152,Content Writer,"Kolkata, West Bengal,India",C133,Collegedunia,Information Technology & Services,1000,1444,Class-1,111,Entry-Level,0
+J153,Search Engine Optimization Executive,"Noida, Uttar Pradesh,India",C134,Flexsin,Information Technology & Services,10001,401,Class-1,112,Mid-Level,34
+J154,Associate,"Noida, Uttar Pradesh,India",C135,KnowledgeWorks Global Ltd.,Book and Periodical Publishing,50,3039,Class-1,113,NULL,35
+J155,Social Media Marketing Intern,"New Delhi, Delhi,India",C136,WhizCo,Online Media,50,133,Class-1,114,NULL,6
+J156,Digital Marketing Intern,India,C137,Corizo,E-learning,500,136,Class-1,115,NULL,0
+J157,Human Resources Intern,"Delhi,India",C138,Team4progress technologies,Information Technology & Services,50,25,Class-1,100,entry-Level,12
+J158,Student,"Pune, Maharashtra,India",C103,The Golden Rise,Wellness and Fitness Services,1000,11317,Class-1,116,Entry-Level,22
+J159,Employee,"New Delhi, Delhi,India",C139,ONLINE WORK FROM HOME,Human Resources Services,10001,2073928,Class-1,111,Entry-Level,0
+J160,Fresher,Greater Delhi Area,C140,Work From Home/ Fresher & Experience Jobs,Human Resources Services,10,229016,Class-1,117,NULL,1
+J161,Human Resources Intern,"Delhi,India",C129,ILP Overseas | Intertiol Learning Planners,Education Magement,294536,708,Class-1,115,NULL,0
+J162,Fundraiser Internship,"Delhi,India",C141,Mantra Care,Hospital & Health Care ,50,76,Class-1,115,NULL,0
+J163,Digital Marketing Intern,India,C142,Lernx,E-learning,500,262,Class-1,118,Entry-Level,1
+J164,Fresher,"New Delhi, Delhi,India",C126,"""Work From Home""",Human Resources Services,200,2073841,Class-1,119,NULL,4
+J165,Student,"Noida, Uttar Pradesh,India",C103,The Golden Rise,Wellness and Fitness Services,10000,11317,Class-1,116,Entry-Level,22
+J166,Students and freshers,"Delhi,India",C143,WORK FROM HOME/DIGITAL OPPORTUNITY,Human Resources Services,500,229016,Class-1,117,NULL,1
+J167,Volunteer,"Delhi,India",C144,GreenBhumi,Environmental Services,5000,24806,Class-1,120,Entry-Level,0
+J168,Technical content writer,"Noida, Uttar Pradesh,India",C145,Apponward Technologies,Information Technology & Services,200,30,Class-1,104,Entry-Level,0
+J169,Sales And Marketing Intern,India,C129,ILP Overseas | Intertiol Learning Planners,Education Magement,200,708,Class-1,121,Entry-Level,29
+J170,Assistant Mager,"Noida, Uttar Pradesh,India",C146,Kalkine Media Australia,Education Magement ,51,42703,Class-1,122,NULL,7
+J171,Content Writer,"Noida, Uttar Pradesh,India",C147,Appy Pie,Information Technology & Services ,9,15051,Class-1,123,Entry-Level,27
+J172,Freelance,India,C148,Clarity,"Health, Wellness & Fitness",50,27366,Class-1,124,Entry-Level,33
+J173,B.com/ Bca Student,"New Delhi, Delhi,India",C149,work from anywhere,"Health, Wellness & Fitness",10,54517,Class-1,125,Mid-Senior-Level,159
+J174,Social Media Content Writer,"Gurugram, Harya,India",C150,CUR8,Computer Software,200,18857,Class-1,126,NULL,32
+J175,Sales Mager,"Delhi,India",C151,Karyarth,Magement Consulting,10001,15156,Class-1,56,NULL,26
+J176,Marketing Intern,"Ahmedabad, Gujarat,India",C152,Connplex,Entertainment,279,795,Class-1,127,NULL,14
+J177,Listener or Freelancer,India,C148,Clarity,"Health, Wellness & Fitness",500,27366,Class-1,128,NULL,65
+J178,Online work for freshers,India,C153,Ascent BPO Services Pvt. Ltd.,Outsourcing/Offshoring,8,13050,Class-1,129,NULL,0
+J179,Operation internship,India,C154,Suvidha Foundation (Suvidha Mahila Mandal),Non-profit Organization Magement,2,49516,Class-1,130,Entry-Level,19
+J180,Process Associate - Content Moderation - Marathi + English-HIG010759,"Hyderabad, Telangana,India",C155,Genpact,Information Technology & Services,236,2032291,Class-1,100,entry-Level,12
+J181,Influencer Marketing Intern,"Guwahati, Assam,India",C156,Madify,Marketing & Advertising ,50,565,Class-1,114,NULL,6
+J182,Listener/Freelancer,India,C148,Clarity,"Health, Wellness & Fitness",0,27366,Class-1,131,Entry-Level,25
+J183,Associate,"Gurugram, Harya,India",C157,Wipro,IT Services and IT Consulting,50,6072255,Class-3,132,Entry-Level,201
+J184,Trainee Marketing Automation Executive,"Noida, Uttar Pradesh,India",C158,Third Eye Automation Pvt. Ltd,Marketing & Advertising ,0,96,Class-1,133,Entry-Level,9
+J185,Student,"New Delhi, Delhi,India",C159,Part Time & Freelancing,Magement Consulting,200,17460,Class-1,134,NULL,19
+J186,Freshers / Graduates (Off Campus - BE / B.Tech - 2022 Passouts),"Bengaluru, Kartaka,India",C160,Hitachi Vantara,Information Technology & Services,10001,497397,Class-1,135,NULL,201
+J187,Business Development Intern,"Gurugram, Harya,India",C161,Antino,Information Technology & Services,5000,15139,Class-1,136,NULL,13
+J188,Student,"New Delhi, Delhi,India",C159,Part Time & Freelancing,Magement Consulting,50,17460,Class-1,137,NULL,18
+J189,Business Development Executive,"Gurugram, Harya,India",C162,Square Yards,Real Estate,10001,207509,Class-1,104,Entry-Level,0
+J19,Alyst - Reporting,"Bengaluru, Kartaka,India",C14,dentsu intertiol,Marketing & Advertising ,200,647910,Class-1,18,Associate,10
+J190,Content and Research marketing Internship,India,C163,Project C Foundation - We Care For Your Mental Health,Non-profit Organization Magement,200,6983,Class-1,138,NULL,19
+J191,Freshers,"New Delhi, Delhi,India",C164,Health & Wellness Industry,"Health, Wellness & Fitness ",10001,20578,Class-1,85,NULL,0
+J192,Social Media Marketing Internship in Multiple locations at PeakPals,"Delhi, Delhi,India",C165,PeakPals,"Health, Wellness & Fitness",5640,4037,Class-1,139,NULL,4
+J193,Digital Marketing Internship in Delhi at Yokins Instruments Private Limited,"Delhi, Delhi,India",C166,Yokins Instruments Pvt Ltd,"Appliances, Electrical, and Electronics Manufacturing",50,93,Class-1,140,NULL,9
+J194,Social Media Marketing part time job/internship at Delhi in Kapable.club,"Delhi, Delhi,India",C167,Kapable,E-learning ,10,12717,Class-1,141,NULL,1
+J195,Fince Intern,India,C168,MBA Hub,E-learning,53,26284,Class-1,115,NULL,0
+J196,Social Media Marketing Internship in Noida at Wildlife Trust OfIndia,"Noida, Uttar Pradesh,India",C169,Wildlife Trust of India,Non-profit Organization Magement,10001,8403,Class-1,142,NULL,2
+J197,Content/Copy writer internship,India,C170,RicheMoi,IT Services and IT Consulting,287,5782,Class-1,143,Entry-Level,33
+J198,Social Media Marketing Internship in Gurgaon at TrillerIndia,"Gurgaon, Harya,India",C171,Triller,Computer Software,82,45224,Class-1,140,NULL,9
+J199,Email Marketing Specialist,"New Delhi, Delhi,India",C172,Krash IT Services,IT Services and IT Consulting,10,1279,Class-1,144,NULL,15
+J20,Data Alyst,"Bengaluru, Kartaka,India",C15,ANZ,Banking ,56,558346,Class-1,19,NULL,138
+J200,Digital and Social Marketing Internship,"Mumbai, Maharashtra,India",C173,The Gift Tree - Corporate Gift Hampers Co. ðŸŽðŸŽðŸŽ,Food and Beverage Services,200,72,Class-1,81,Entry-Level,15
+J201,Customer Support Executive,"Ghaziabad, Uttar Pradesh,India",C174,Million Minds Magement Services Ltd.,Staffing and Recruiting,500,4375,Class-1,145,NULL,20
+J202,HR intern,India,C175,NIRVODAY RECRUITMENT CELL,Information Technology & Services,200,1403,Class-1,144,NULL,15
+J203,Assistant,"Kutch district, Gujarat,India",C176,Millioiretrack,Book and Periodical Publishing,200,139,Class-1,85,NULL,0
+J204,Corporate Acquisition Intern,India,C177,triedge.in,Internet,200,28630,Class-1,115,NULL,0
+J205,Project Expert,"Delhi,India",C178,Government Project,Services,200,100,Class-1,146,NULL,16
+J206,Fince and Marketing Intern,India,C168,MBA Hub,E-learning,10001,26284,Class-1,26,NULL,27
+J207,Data Entry Specialist,"Lucknow, Uttar Pradesh,India",C179,MAXMOON SOLUTIONS Private Limited,Marketing & Advertising ,10001,243,Class-1,73,NULL,25
+J208,Intership,India,C180,Aashman Foundation,Non-profit Organization Magement,10,111480,Class-1,147,NULL,8
+J209,Human Resources Intern,"Preet Navihar, Delhi,India",C181,MomkidcareÂ®,Hospital & Health Care ,10000,13425,Class-1,148,Entry-Level,14
+J210,"Associate, RES","Gurgaon, Harya,India",C182,Gartner,Information Service,10001,1416744,Class-1,149,Entry-Level,155
+J211,Teaching Assistant,"Raipur, Chhattisgarh,India",C183,igebra.ai,E-learning,10001,4998,Class-1,150,NULL,10
+J212,Copywriter Intern,India,C184,SoluLab,Information Technology & Services,10001,36810,Class-1,115,NULL,0
+J213,Freshers and students,"New Delhi, Delhi,India",C185,ONLINE WORK FROM HOME OPPORTUNITY,E-learning ,1000,6175,Class-1,151,NULL,10
+J214,Student,"New Delhi, Delhi,India",C185,ONLINE WORK FROM HOME OPPORTUNITY,E-learning ,10000,6175,Class-1,152,NULL,21
+J215,Fince Intern,India,C137,Corizo,E-learning,10001,136,Class-1,153,NULL,22
+J216,Marketing And Business Development Intern,India,C186,Professionbeat,E-learning,5000,10,Class-1,85,NULL,0
+J217,Assistant,"Shimla, Himachal Pradesh,India",C187,digital networking,Marketing & Advertising,10001,1198,Class-1,154,Entry-Level,1
+J218,Digital Marketing Intern (Fil year students only),India,C188,GrowthX By Trustvardi,Marketing & Advertising,10000,256,Class-1,155,Mid-Level,12
+J219,Career Counselor,"New Delhi, Delhi,India",C189,Teachwell Professiol Studies Institute Pvt Ltd,Education Administration Programs,5000,449,Class-1,156,NULL,7
+J220,Intern,India,C190,Support And Care Humanity Foundation,Non-profit Organizations,170,5586,Class-1,122,NULL,7
+J221,Fince Intern,India,C191,BAVCH EDUTECH,E-learning,200,7774,Class-1,140,NULL,9
+J222,Digital marketing fresher,"Pune, Maharashtra,India",C192,"Work at Home Jobs - Online, Professiol, Remote & Digital Marketing Team.",Photography,1000,520,Class-1,114,NULL,6
+J223,Travel sales Consultant,"Delhi,India",C193,sharda services,Education Administration Programs,10000,687,Class-1,15,NULL,12
+J224,Relationship Officer,"New Delhi, Delhi,India",C194,Moneyplus Fincial Services Pvt. Ltd.,Fincial Services,5000,614,Class-1,72,NULL,8
+J225,Student,"Delhi,India",C195,Part time work from home oppotunity,"Health, Wellness & Fitness",10001,53430,Class-1,158,NULL,12
+J226,Human Resources Intern,"Noida, Uttar Pradesh,India",C196,VAYUZ Technologies,Information Technology & Services,10000,6589,Class-1,73,NULL,25
+J227,Student,"Lucknow, Uttar Pradesh,India",C103,The Golden Rise,Wellness and Fitness Services,1000,11317,Class-1,85,NULL,0
+J228,Business Development Executive,"New Delhi, Delhi,India",C197,Mentorsity,E-learning,500,19523,Class-1,85,NULL,0
+J229,Copywriter,"Gurugram, Harya,India",C198,XP&D,Marketing & Advertising,10001,2788,Class-1,85,NULL,0
+J230,"Market research, social media and content Writer",India,C199,sinzo,Information Technology & Services,500,16413,Class-1,159,NULL,15
+J231,Web Development Intern,"Hyderabad, Telangana,India",C200,Business Web Solutions,Information Technology & Services,44835,34512,Class-1,115,NULL,0
+J232,Recruiter,India,C201,Empowering Women$,"Health, Wellness & Fitness",18568,28164,Class-1,85,NULL,0
+J233,Software Engineer,"Pune, Maharashtra,India",C202,HSBC,Fincial Services,10001,3044675,Class-3,58,NULL,5
+J234,Software Engineer,"Pune, Maharashtra,India",C203,Amdocs,Telecommunications,10001,855528,Class-1,13,Entry level,200
+J235,Software Developer,"Noida, Uttar Pradesh,India",C204,Luxoft,IT Services and IT Consulting,10001,764385,Class-1,13,Entry level,200
+J236,Tech Software Engineer in Test,"Pune, Maharashtra,India",C38,UBS,Fincial Services,10001,1205434,Class-1,160,NULL,95
+J237,Software Engineer,"Pune, Maharashtra,India",C205,Uniphore,IT Services and IT Consulting,10000,45066,Class-1,13,Entry level,200
+J238,Software Engineer/Wealth & Persol Banking IT,"Pune, Maharashtra,India",C202,HSBC,Fincial Services,10000,3044675,Class-3,85,NULL,0
+J239,"Junior Associate, Solution Engineering","Pune, Maharashtra,India",C206,Western Union,Fincial Services,10001,234769,Class-1,161,Entry level,1
+J24,Data Alyst - Operatiol Excellence,"Bengaluru, Kartaka,India",C18,Shell ,Oil & Energy ,10001,5922917,Class-3,23,NULL,50
+J240,SCM Engineer,"Pune, Maharashtra,India",C207,Cyient,IT Services and IT Consulting,10000,264396,Class-1,162,Entry level,45
+J241,.Net Developer,"Pune, Maharashtra,India",C208,Air Products India,Chemical Manufacturing,10000,30048,Class-1,163,NULL,21
+J242,Java Developer,"Pune, Maharashtra,India",C209,HP,IT Services and IT Consulting,10000,5101101,Class-3,40,NULL,200
+J243,Application Alyst,"Pune, Maharashtra,India",C210,VIAVI Solutions,Telecommunications,10000,75719,Class-1,164,Associate,19
+J244,Software Developer,"Pune, Maharashtra,India",C211,Hansen Technologies,Software Development,10000,24385,Class-1,165,Mid Senior level,170
+J245,Developer,"Pune, Maharashtra,India",C157,Wipro,IT Services and IT Consulting,10000,6072255,Class-3,166,NULL,128
+J246,Software Developer,"Pune, Maharashtra,India",C211,Hansen Technologies,Software Development,200,24385,Class-1,167,Mid Senior level,100
+J247,SmartServ - Frontend Developer - Javascript,"Pune, Maharashtra,India",C212,SmartServ,Software Development,5000,14628,Class-1,168,Entry level,100
+J248,Software Engr II,"Pune, Maharashtra,India",C43,Honeywell,Electrical & Electronic Manufacturing,200,2221925,Class-3,169,Entry level,61
+J249,Developer,"Pune, Maharashtra,India",C157,Wipro,IT Services and IT Consulting,10001,6072255,Class-3,170,NULL,144
+J25,Associate Alyst-Quality BI,"Pune, Maharashtra,India",C19,Eaton  ,Electrical & Electronic Manufacturing ,200,1242164,Class-1,24,Mid-Senior level,1
+J250,Engineer - CiNavil Structural,"Vadodara, Gujarat,India",C208,Air Products India,Chemical Manufacturing,10000,30048,Class-1,171,NULL,63
+J251,Engineer - CiNavil Structural,"Vadodara, Gujarat,India",C208,Air Products India,Chemical Manufacturing,10000,30048,Class-1,172,NULL,59
+J252,Software Engineer - SerNavice Now Developer - SerNavice Portal,"Pune, Maharashtra,India",C203,Amdocs,Telecommunications,10000,855528,Class-1,173,Entry level,187
+J253,"Associate, Solution Engineering","Pune, Maharashtra,India",C206,Western Union,Fincial Services,50,234769,Class-1,161,Entry level,1
+J254,Python Developer,"Ahmedabad, Gujarat,India",C213,Yudiz Solutions,IT Services and IT Consulting,10000,19488,Class-1,13,Entry level,200
+J255,"Junior Associate, Technology Operations (SerNaviceNow Developer)","Pune, Maharashtra,India",C206,Western Union,Fincial Services,10000,234769,Class-1,174,Entry level,19
+J256,Windows+MAC OS Technical Support Alyst,"Pune, Maharashtra,India",C214,BMC Software,IT Services and IT Consulting,10000,239980,Class-1,166,NULL,128
+J257,Software Engineer 2,"Pune, Maharashtra,India",C87,Dell Technologies,Information Technology & Services,1000,4170257,Class-3,175,NULL,82
+J258,"Alyst, Integration Quality","Pune, Maharashtra,India",C215,Evolent Health,Hospitals and Health Care,10000,63236,Class-1,176,Associate,20
+J259,Senior Specialist - Software Engineering,"Pune, Maharashtra,India",C216,LTI - Larsen & Toubro Infotech,IT Services and IT Consulting,10001,1760160,Class-1,177,Associate,25
+J26,Tableau Data Platform Engineer,"Gurgaon, Harya,India",C2,Accenture in India,Information Technology & Services,10000,1399337,Class-1,25,Mid-Senior level,4
+J260,"Software Engineer, II","Pune, Maharashtra,India",C217,Zebra Technologies,IT Services and IT Consulting,10000,260894,Class-1,178,Entry level,66
+J261,Senior Software Engineer,"Pune, Maharashtra,India",C218,Intelerad Medical Systems,Medical Equipment Manufacturing,10000,64937,Class-1,179,Mid Senior level,7
+J262,Software Engineer - Testing,"Hyderabad, Telangana,India",C219,pier Healthcare,IT Services and IT Consulting,10000,18355,Class-1,180,Associate,125
+J263,"Embedded Software Engineer (C++, QT)","Pune, Maharashtra,India",C220,Goken America,Design Services,50,6475,Class-1,181,Mid Senior level,16
+J264,Junior Architect & Junior Engineer,"msai, Aruchal Pradesh,India",C221,ArBis & Associates,Software Development,5000,120,Class-1,15,NULL,12
+J265,Junior Software Engineers Bangalore Office Job,"Bengaluru, Kartaka,India",C222,TeamPlus Staffing Solution Pvt Ltd,Staffing and Recruiting,10000,3825,Class-1,182,Entry level,32
+J266,Software Engineer - Testing,"Hyderabad, Telangana,India",C219,pier Healthcare,IT Services and IT Consulting,10000,18355,Class-1,183,Associate,135
+J267,Senior Executive_Engineer_Linux_Pune,"Pune, Maharashtra,India",C6,_VOIS,Information Technology & Services,10000,84023,Class-1,184,Associate,6
+J268,Software Developer- Data & Alytics,"Pune, Maharashtra,India",C223,Johnson Controls,Industrial Machinery Manufacturing,10000,1149075,Class-1,185,Entry level,72
+J269,Structural Engineer l,"Mumbai, Maharashtra,India",C224,Worley,Professiol Services,1000,1001176,Class-1,186,NULL,136
+J27,Junior Alytics Engineer - Associate 2,"Mumbai, Maharashtra,India",C20,State Street,Fincial Services ,1000,435909,Class-1,26,NULL,27
+J270,Software Engineer 2,"Hyderabad, Telangana,India",C8,Microsoft,Computer Software,5000,17774440,Class-2,187,Entry level,91
+J271,Software Engineer 2,"Bengaluru, Kartaka,India",C8,Microsoft,Computer Software,10000,17774440,Class-2,188,Entry level,102
+J272,Software Engineer 2,"Hyderabad, Telangana,India",C8,Microsoft,Computer Software,10000,17774440,Class-2,13,Entry level,200
+J273,Technical Support Engineering M4,"Hyderabad, Telangana,India",C8,Microsoft,Computer Software,10000,17774440,Class-2,189,Entry level,67
+J274,Software Engineer 2,"Delhi, Delhi,India",C8,Microsoft,Computer Software,5000,17774440,Class-2,190,Entry level,106
+J275,Support Engineer Internship Opportunity for University Graduate,"Daman and Diu,India",C8,Microsoft,Computer Software,10000,17774440,Class-2,191,Internship,10
+J276,Support Engineer Internship Opportunity for University Graduate,"Delhi, Delhi,India",C8,Microsoft,Computer Software,200,17774440,Class-2,192,Internship,107
+J277,SAP MM Ha Consultant,"Delhi, Delhi,India",C225,IBM,IT Services and IT Consulting,200,14405502,Class-2,193,NULL,91
+J278,SAP MM Ha Consultant,"Mumbai, Maharashtra,India",C225,IBM,IT Services and IT Consulting,10000,14405502,Class-2,194,NULL,115
+J279,Package Consultant  SAP SD VC,"Mumbai, Maharashtra,India",C225,IBM,IT Services and IT Consulting,10000,14405502,Class-2,28,NULL,1
+J28,Data Alyst,Greater Kolkata Area,C21,Michael Page,Staffing & Recruiting,200,3007322,Class-3,27,Entry level,6
+J280,Package Consultant SAP SD VC,"Delhi, Delhi,India",C225,IBM,IT Services and IT Consulting,5000,14405502,Class-2,37,NULL,3
+J281,CAO Control Programs- Associate,"Mumbai, Maharashtra,India",C226,JPMorgan Chase & Co.,Fincial Services,10000,3321410,Class-3,58,NULL,5
+J282,Infrastructure Development,"Hyderabad, Telangana,India",C226,JPMorgan Chase & Co.,Fincial Services,50,3321410,Class-3,195,NULL,17
+J283,Quality Assurance_Disclosure of Interest,"Hyderabad, Telangana,India",C226,JPMorgan Chase & Co.,Fincial Services,10000,3321410,Class-3,196,NULL,52
+J285,Lead - Talent Acquisition,"Bengaluru, Kartaka,India",C228,Volvo Group,Motor Vehicle Manufacturing,500,64576,Class-1,40,NULL,200
+J288,Infrastructure Architect,"Bengaluru, Kartaka,India",C231,GlobalLogic,Computer Software,10000,642397,Class-1,200,Mid-Senior ,85
+J289,Site Reliability Engineer 3,"Bengaluru, Kartaka,India",C232,Flipkart,Computer Software,50,2912399,Class-3,201,NULL,118
+J29,Associate Business Alyst,"Bengaluru, Kartaka,India",C22,Novo Nordisk,Pharmaceuticals  ,1000,1302821,Class-1,28,NULL,1
+J290,Test Alyst (Retail Banking),"Bengaluru, Kartaka,India",C233,Luxoft ,Information Technology & Services,10,764411,Class-1,202,Mid-Senior,96
+J291,Team Lead,"Bengaluru, Kartaka,India",C234,Amazon,Computer Software,10000,27544868,Class-4,203,Mid-Senior,43
+J292,Principal Software Engineer,"Bengaluru, Kartaka,India",C235,Dell Technologies ,Information Technology & Services,500,4170269,Class-3,204,Mid-Senior,21
+J293,Senior Site Reliability Engineer,"Bengaluru, Kartaka,India",C236,BYJU'S,E-learning,10,1534350,Class-1,205,Associate,165
+J294,Technical Architect,"Bengaluru, Kartaka,India",C237,HealthSignz Technologies Pvt. Ltd,Information Technology & Services ,50,4853,Class-1,206,NULL,58
+J295,Senior Database Solutions Architect,"Bengaluru, Kartaka,India",C238,Pure Storage ,Information Technology & Services,1000,283462,Class-1,55,NULL,41
+J296,Full Stack Developer,"Bengaluru, Kartaka,India",C239,NewSpace Research and Technologies,Aviation & Aerospace,200,72113,Class-1,207,Mid-Senior ,31
+J297,Quality Magement Representative,"Dodballapura, Kartaka,India",C240,Accurate Bearing Components,Automotive,500,424,Class-1,160,NULL,95
+J298,Technical system Adminstrator,"Bengaluru, Kartaka,India",C241,Tech Mahindra,Information Technology & Services,10001,3640847,Class-3,208,Mid-Senior ,57
+J299,Alytics Engineer,"Bengaluru, Kartaka,India",C242,UPL,Farming,10001,315529,Class-1,209,Mid-Senior ,9
+J300,Database Administrator,"Bengaluru, Kartaka,India",C243,Fidelity Investments ,Fincial Services,10001,712805,Class-1,210,NULL,51
+J301,Admissions Counselor,"Bengaluru, Kartaka,India",C244,Bangalore School of Design ,Higher Education,10001,1085,Class-1,211,NULL,77
+J303,MIM (Major Incident Magement),"Bengaluru, Kartaka,India",C246,LTI - Larsen & Toubro Infotech ,Information Technology & Services,500,1760206,Class-1,10,Associate,200
+J304,Mechanical Drafter,"Bengaluru, Kartaka,India",C247,HCL Technologies ,Information Technology & Services,5001,4061543,Class-3,213,Mid-Senior ,200
+J305,Hardware Design Engineer,"Bengaluru, Kartaka,India",C248,Growel Softech Ltd,Information Technology & Services,10001,20483,Class-1,214,Mid-Senior ,63
+J307,Maintence Executive,"Bengaluru, Kartaka,India",C250,SATS Ltd.,Airlines/Aviation,1000,96828,Class-1,10,Associate,200
+J308,Senior Engineer,"Bengaluru, Kartaka,India",C251,Trane Technologies ,Mechanical Or Industrial Engineering,10001,77201,Class-1,216,Associate,173
+J309,EDA Tool Developer,"Bengaluru, Kartaka,India",C86,IBM ,Information Technology & Services,10001,14405435,Class-2,217,NULL,11
+J31,Senior Alyst,"Pune, Maharashtra,India",C24,Barclays,Fincial Services ,10001,1251058,Class-1,18,Associate,10
+J310,High Power Electronics Integration Senior Mager,"Bengaluru, Kartaka,India",C252,Ola ,Computer Software,200,845719,Class-1,218,Mid-Senior ,30
+J311,Staff Software Engineer,"Bengaluru, Kartaka,India",C253,Arm,Semiconductors,10001,339185,Class-1,219,Associate,23
+J315,Solution Architect,"Bengaluru, Kartaka,India",C257,EY,Accounting,1000,6654058,Class-3,222,Associate,35
+J316,Lean Product Owner,"Bengaluru, Kartaka,India",C258,Northern Trust Corporation,Fincial Services,1000,332083,Class-1,213,Mid-Senior ,200
+J317,SDN Cloud Consultant / Architect,"Bengaluru, Kartaka,India",C66,Juniper Networks,Computer Software,50,630166,Class-1,223,Director,87
+J318,Mager - Piping,"Bengaluru, Kartaka,India",C259,SUEZ,Environmental Services,10001,291967,Class-1,224,Mid-Senior,51
+J319,Safety Case Coorditor,"Bengaluru, Kartaka,India",C260,SBM uvata ,Oil & Energy ,1000,13587,Class-1,220,Mid-Senior,200
+J32,Senior Data Alyst,"Bengaluru, Kartaka,India",C25,TE Connectivity,Electrical & Electronic Manufacturing,1000,442595,Class-1,29,Mid-Senior level,5
+J321,CNC Manufacturing Design Engineer,"Bengaluru, Kartaka,India",C262,Apple ,Consumer Electronics,5000,17263708,Class-2,40,NULL,200
+J324,Principal Software Engineer,"Bengaluru, Kartaka,India",C235,Dell Technologies ,Information Technology & Services,10001,4170269,Class-3,204,Mid-Senior,21
+J325,Procurement Specialist,"Bengaluru, Kartaka,India",C265,ABB,Electrical & Electronic Manufacturing ,1000,2855753,Class-3,40,NULL,200
+J326,"SoC Physical Design Engineer, Google Cloud","Bengaluru, Kartaka,India",C266,Google,Computer Software,50,26114780,Class-4,227,NULL,89
+J327,Test Alyst (Cards & Payments),"Chennai, Tamil nadu,India",C233,Luxoft ,Information Technology & Services,10001,764411,Class-1,228,Mid-Senior,133
+J33,Data Alyst,"Bengaluru, Kartaka,India",C26,Gameskraft,Computer Games,10001,21553,Class-1,30,Mid-Senior level,200
+J333,Lead System Engineer - Windows,"Chennai, Tamil nadu,India",C271,Societe Generale Global Solution Centre ,Information Technology & Services,10001,224658,Class-1,234,NULL,32
+J334,Hiring Interns across functions,"Chennai, Tamil nadu,India",C272,Pickyourtrail ,"Leisure, Travel & Tourism",10001,16636,Class-1,235,Internship,56
+J335,Network Engineer,"Chennai, Tamil nadu,India",C273,TNQ Technologies ,Publishing,5000,21819,Class-1,236,Mid-Senior,103
+J336,Part Time LIC-AGENCY,"Chennai, Tamil nadu,India",C274,LIC ,Insurance,200,98841,Class-1,129,NULL,0
+J337,Operations And ERP Consulting,"Chennai, Tamil nadu,India",C275,Avaesa ,Retail ,10001,2269,Class-1,237,Internship,7
+J338,Summer Internship - Sales,"Chennai, Tamil nadu,India",C276,Procter & Gamble,Consumer Goods,10001,7040644,Class-3,238,NULL,47
+J339,Capital Market (Fince),"Chennai, Tamil nadu,India",C277,Star Fing ,Fincial Services,10001,3946,Class-1,239,Internship,3
+J34,Data Alyst,"Bengaluru, Kartaka,India",C27,Edu Angels India Private Limited,Consumer Services ,10001,32,Class-1,31,Mid-Senior level,32
+J340,Ops Support Assistant,"Chennai, Tamil nadu,India",C56,Citi,Fincial Services,10000,3813311,Class-3,240,NULL,6
+J341,Assistant Fince Controller,"Chennai, Tamil nadu,India",C278,Hilton ,Hospitality,10001,1660195,Class-1,241,Enrty,108
+J342,COBOL Developer,"Chennai, Tamil nadu,India",C279,Zenitus Technologies,Information Technology & Services,10001,2057,Class-1,242,Enrty,3
+J343,Data Entry Operator,"Chennai, Tamil nadu,India",C280,Red Group ,Real Estate,10001,8672,Class-1,243,Enrty,30
+J348,Application Database Administrator: RDBMS,"Chennai, Tamil nadu,India",C86,IBM ,Information Technology & Services,10001,14405435,Class-2,37,NULL,3
+J35,Senior Alyst,"Bengaluru, Kartaka,India",C28,Hotstar,Computer Software ,10001,719232,Class-1,32,Associate,69
+J351,Project Mager,"Chennai, Tamil nadu,India",C24,Barclays,Fincial Services ,5000,1251058,Class-1,249,Mid-Senior,29
+J352,Database Administrator,"Chennai, Tamil nadu,India",C60,R1 RCM ,Hospital & Health Care,10000,98792,Class-1,250,NULL,2
+J353,3D Designer,"Chennai, Tamil nadu,India",C287,Zero Gravity Photography,Photography,10000,2781,Class-1,251,NULL,48
+J38,PRODUCT PRICING ALYST I,"Bengaluru, Kartaka,India",C25,TE Connectivity,Electrical & Electronic Manufacturing,10,442595,Class-1,35,Associate,33
+J39,Growth Alyst,"Bengaluru, Kartaka,India",C9,Turing.com,Information Technology & Services,10000,127941,Class-1,34,NULL,84
+J40,Business Alyst,"Bengaluru, Kartaka,India",C22,Novo Nordisk,Pharmaceuticals  ,200,1302821,Class-1,37,NULL,3
+J41,Alyst,"Pune, Maharashtra,India",C24,Barclays,Fincial Services ,5000,1251058,Class-1,18,Associate,10
+J43,MI Alyst,"Gurgaon, Harya,India",C1,American Express  ,Fincial Services ,10000,1701642,Class-1,39,NULL,45
+J44,Data Alyst (Temporary Full Time),"Hyderabad, Telangana,India",C31,Electronic Arts (EA),Computer Games,500,1075143,Class-1,40,NULL,200
+J47,Business Insights Alyst (Waymo),"Gurgaon, Harya,India",C34,TaskUs ,Outsourcing/Offshoring,10001,139474,Class-1,43,Full-time,200
+J48,Alyst/Data Alytics,"Hyderabad, Telangana,India",C35,D. E. Shaw India Private Limited,Fincial Services,1000,72352,Class-1,13,Entry level,200
+J49,SC Master Data Alyst,"Gurgaon, Harya,India",C36,Medtronic,Medical Device  ,10001,1417673,Class-1,44,Mid-Senior level,70
+J50,Senior Engineer - Production,"Tiruvallur, Tamil du,India",C37,BorgWarner,Automotive  ,500,266728,Class-1,45,NULL,177
+J51,Data Alyst,"Mumbai, Maharashtra,India",C38,UBS,Fincial Services,10000,1205434,Class-1,46,NULL,184
+J52,Business Alyst,"Mumbai, Maharashtra,India",C39,TechSevin Solution LLP,Information Technology & Services,10001,2095,Class-1,40,NULL,200
+J53,Data Alyst - II,"Delhi, Delhi,India",C40,Chegg India,E-learning,10001,54333,Class-1,13,Entry level,200
+J54,Data Governce Lead,"Bengaluru, Kartaka,India",C41,Dover India,Machinery  ,10000,53466,Class-1,47,Mid-Senior level,98
+J55,Data Alyst,"Surat, Gujarat,India",C42,AFIV DATA OUTSOURCING,Information Technology & Services,10001,14591,Class-1,40,NULL,200
+J56,Advanced Data Engineer,"Bengaluru, Kartaka,India",C43,Honeywell,Electrical & Electronic Manufacturing,50,2221925,Class-3,6,Associate,51
+J57,Business Alyst,"Jaipur, Rajasthan,India",C44,E Connect Solutions Pvt. Ltd,Information Technology & Services,10001,4438,Class-1,30,Mid-Senior level,200
+J58,Business Alyst,"Bangalore Urban, Kartaka,India",C45,vi,Fincial Services,200,163249,Class-1,10,Associate,200
+J59,People Data Alyst,"Bengaluru, Kartaka,India",C46,AVEVA ,Computer Software,200,220860,Class-1,13,Entry level,200
+J6,Alyst,"Hyderabad, Telangana,India",C5,Novartis India,Pharmaceuticals  ,10001,111727,Class-1,6,Associate,51
+J60,Excel Forecasting,"Noida, Uttar Pradesh,India",C47,WNS,Outsourcing/Offshoring,10001,499613,Class-1,30,Mid-Senior level,200
+J61,Data Alyst | WFH,Greater Kolkata Area,C21,Michael Page,Staffing & Recruiting,10001,3007322,Class-3,48,Entry level,8
+J62,Business Alyst,"Pune, Maharashtra,India",C48,Simplify Healthcare,Information Technology & Services,10001,62475,Class-1,13,Entry level,200
+J63,Project Engineer,"Gurgaon, Harya,India",C49,Taurus Contractors Pvt Ltd ,Oil & Energy,10001,28308,Class-1,30,Mid-Senior level,200
+J64,Data Alyst,"Bangalore Urban, Kartaka,India",C50,LKQ Corporation,Automotive  ,5000,43182,Class-1,49,Entry level,33
+J65,Mager- Process Engineering,"nagpur, Maharashtra,India",C51,Mahindra Group,Executive Office,5000,998435,Class-1,50,Mid-Senior level,141
+J66,Industrial Engineer,"Chennai, Tamil nadu,India",C52,Ford Motor Company,Automotive  ,10001,3645053,Class-3,51,Entry level,197
+J67,Data Alyst,"Noida, Uttar Pradesh,India",C53,Iris Software Inc,Information Technology & Services,10,230574,Class-1,13,Entry level,200
+J68,Data Alyst,"Noida, Uttar Pradesh,India",C11,Optum,Hospital & Health Care ,10001,516149,Class-1,13,Entry level,200
+J69,Planning - Business Alyst,"Mumbai, Maharashtra,India",C54,Zepto ,Computer Software,10000,94160,Class-1,10,Associate,200
+J7,Alyst,"Hyderabad, Telangana,India",C5,Novartis India,Pharmaceuticals  ,5000,111727,Class-1,7,Associate,31
+J70,Data Alyst - 08,"Pune, Maharashtra,India",C55,Michelin ,Automotive  ,5000,616381,Class-1,40,NULL,200
+J71,Business Alytics Alyst,"Pune, Maharashtra,India",C56,Citi,Fincial Services,10001,3813311,Class-3,40,NULL,200
+J72,Data Alyst,"Gurgaon, Harya,India",C57,Moody's Corporation ,Fincial Services,226,142187,Class-1,52,NULL,105
+J73,Data Scientist-1,"Gurgaon, Harya,India",C58,Mastercard,Information Technology & Services,7,1096069,Class-1,53,Entry level,200
+J74,"Data Alyst, 2","Bengaluru, Kartaka,India",C59,Bread Fincial ,Fincial Services,44,69790,Class-1,54,Associate,43
+J75,P1-Lead Alyst - BI and Alytics_COA,"Gurgaon, Harya,India",C60,R1 RCM ,Hospital & Health Care,45,98792,Class-1,55,NULL,41
+J76,"Alyst, Data Magement & Quantitative Alysis","Pune, Maharashtra,India",C61,BNY Mellon,Fincial Services,930,444685,Class-1,56,NULL,26
+J77,Item Data Alyst,"Bengaluru, Kartaka,India",C62,Target,Retail  ,10001,1557165,Class-1,13,Entry level,200
+J78,Associate Data Alyst,"Bengaluru, Kartaka,India",C63,Levi Strauss & Co,Apparel & Fashion,10001,601539,Class-1,40,NULL,200
+J79,Business Alyst (Alytics),"Mumbai, Maharashtra,India",C64,yara Energy ,Oil & Energy,10001,189323,Class-1,30,Mid-Senior level,200
+J8,Tableau Data Platform Engineer,"Pune, Maharashtra,India",C2,Accenture in India,Information Technology & Services,10001,1399337,Class-1,8,Entry level,9
+J80,Data Mager,India,C65,Clario ,Computer Software,10000,39755,Class-1,10,Associate,200
+J81,SDN Cloud Consultant / Architect,"Bengaluru, Kartaka,India",C66,Juniper Networks,Computer Software,200,630166,Class-1,57,Director,85
+J82,Manufacturing Operations Mager,"Bengaluru, Kartaka,India",C67,Charcoal.linkedIn,Consumer Electronics,5000,14647,Class-1,40,NULL,200
+J83,"Alyst, Data Science & Alytics","Pune, Maharashtra,India",C68,TransUnion ,Information Technology & Services,10000,277661,Class-1,40,NULL,200
+J84,Business Alyst,"Bengaluru, Kartaka,India",C69,Saveo.in,"Health, Wellness & Fitness",50,44879,Class-1,40,NULL,200
+J85,"Alyst, SerNavices Business Intelligence","Gurgaon, Harya,India",C70,Cie,Telecommunications  ,10000,171020,Class-1,58,NULL,5
+J86,Data Science Mager/Senior Mager,"Hyderabad, Telangana,India",C71,Merilytics,Magement Consulting,500,42957,Class-1,59,Mid-Senior level,197
+J87,"Alyst/Associate, Developer Alytics & Data Science, (Sql/Python/Tableau) Global Trading","Gurgaon, Harya,India",C72,BlackRock ,Fincial Services,10000,1160704,Class-1,60,NULL,181
+J88,Business Alyst,"Bangalore Urban, Kartaka,India",C73,Embibe ,E-learning,50,65732,Class-1,61,Executive,200
+J89,Learning Operations - Alyst,"Hyderabad, Telangana,India",C74,Deloitte ,Magement Consulting,1000,10651643,Class-2,62,NULL,176
+J9,Alyst,"Bengaluru, Kartaka,India",C6,_VOIS,Information Technology & Services,10,84023,Class-1,9,Entry level,173
+J90,Engineering Mager,India,C75,Pocket FM,Internet  ,10000,89972,Class-1,30,Mid-Senior level,200
+J91,Site Process Engineer,"Chennai, Tamil nadu,India",C76,Momentive,Chemicals  ,500,65651,Class-1,63,Entry level,85
+J92,"Associate Content Specialist, ESG Data Solutions","Hyderabad, Telangana,India",C77,FactSet ,Information Technology & Services,10,169685,Class-1,64,Entry level,78
+J93,Business Alyst,"Bangalore Urban district, Kartaka,India",C78,Lenovo,Information Technology & Services,50,831255,Class-1,65,NULL,163
+J94,Software Engnieer-Data Engineer,"Bengaluru, Kartaka,India",C79,Societe Generale Global Solution Centre,Information Technology & Services,1000,224654,Class-1,66,NULL,37
+J98,Automation Test Engineer [T500-4723],"Gurugram, Harya,India",C83,Talent500,Human Resources,34,76573,Class-1,69,Associate,76
+J99,Experienced Data Engineer,"Bengaluru, Kartaka,India",C84,Boeing,Aviation & Aerospace,10000,2777840,Class-3,70,NULL,86
