@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="main">
+
+        <div class="heading">
+            <h1>Job Search</h1>
+        </div>
+        <div class="search">
+            <h2>Jobs (keyword/s)</h2>
+            <input type="text" placeholder="Enter Title">
+            <button id="search">Search</button>
+        </div>
+
+        <div class="result">
+            <div class="keys">
+                <h2>Most Common Experience Level:</h2> <br>
+                <h2>Most Common Industry:</h2> <br>
+                <h2>Most Common Company Class:</h2> <br>
+                <h2>Total Number Of Applicants Applied:</h2>
+            </div>
+            <div class="ans">
+            </div>
+        </div>
+        <button onclick="displayAllData()" id="btn-see-all">see all jobs posting</button>
+        <div class="all-results">
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
